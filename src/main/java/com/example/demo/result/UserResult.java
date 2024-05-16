@@ -1,5 +1,5 @@
-package result;
-import entity.UserEntity;
+package com.example.demo.result;
+import com.example.demo.entity.UserEntity;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
